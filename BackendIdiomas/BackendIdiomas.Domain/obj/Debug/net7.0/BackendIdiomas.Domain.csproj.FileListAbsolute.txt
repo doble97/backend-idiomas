@@ -1,0 +1,12 @@
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/bin/Debug/net7.0/BackendIdiomas.Domain.deps.json
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/bin/Debug/net7.0/BackendIdiomas.Domain.dll
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/bin/Debug/net7.0/BackendIdiomas.Domain.pdb
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/obj/Debug/net7.0/BackendIdiomas.Domain.csproj.AssemblyReference.cache
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/obj/Debug/net7.0/BackendIdiomas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/obj/Debug/net7.0/BackendIdiomas.Domain.AssemblyInfoInputs.cache
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/obj/Debug/net7.0/BackendIdiomas.Domain.AssemblyInfo.cs
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/obj/Debug/net7.0/BackendIdiomas.Domain.csproj.CoreCompileInputs.cache
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/obj/Debug/net7.0/BackendIdiomas.Domain.dll
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/obj/Debug/net7.0/refint/BackendIdiomas.Domain.dll
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/obj/Debug/net7.0/BackendIdiomas.Domain.pdb
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Domain/obj/Debug/net7.0/ref/BackendIdiomas.Domain.dll

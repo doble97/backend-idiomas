@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e8B7nxkDY9UIx6Lji5GgwhZ+WgisKj0BZZI64jcIOKs=",
+  "Source": "BackendIdiomas.Api",
+  "BasePath": "_content/BackendIdiomas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,8 @@
+1.Creamos la solucion con: dotnet new sln -o BackendIdiomas
+2. Dentro de la sln crear la webapi: dotnet new webapi -o BackendIdiomas.api
+3. Crear dentro de sln el elemento classLibrary: dotnet new classlib -o BackendIdiomas.Contracts
+4. Crear el elemento infrastructure: dotnet new classlib -o BackendIdiomas.infrastructure
+5. Crear layer aplicacion: dotnet new classlib -o BackendIdiomas.Application
+6. Crear layer domain: dotnet new classlib -o BackendIdiomas.Domain
+********************************
+7. Se deben añadir los proyectos a la solucion para poder hacer un build: dotnet sln add (ls -r **\*.csproj), en linux usar $()

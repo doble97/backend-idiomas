@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/BackendIdiomas.Api.props" />
+</Project>
