@@ -6,3 +6,8 @@
 6. Crear layer domain: dotnet new classlib -o BackendIdiomas.Domain
 ********************************
 7. Se deben añadir los proyectos a la solucion para poder hacer un build: dotnet sln add (ls -r **\*.csproj), en linux usar $()
+8. Añadir dependecia entre las capas: dotnet add ./BackendIdiomas.Api reference ./BackendIdiomas.Contracts ./BackendIdiomas.Application
+    dotnet add BackendIdiomas.Infrastructure reference BackendIdiomas.Contracts BackendIdiomas.Application
+    dotnet add BackendIdiomas.Application reference BackendIdiomas.Domain
+    dotnet add BackendIdiomas.Api reference BackendIdiomas.Infrastructure
+9. Ejecutar el proyecto:  dotnet run --project BackendIdiomas.Api

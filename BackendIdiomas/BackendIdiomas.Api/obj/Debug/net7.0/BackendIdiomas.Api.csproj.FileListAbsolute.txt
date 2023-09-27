@@ -31,3 +31,9 @@
 /home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/obj/Debug/net7.0/BackendIdiomas.Api.pdb
 /home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/obj/Debug/net7.0/BackendIdiomas.Api.genruntimeconfig.cache
 /home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/obj/Debug/net7.0/ref/BackendIdiomas.Api.dll
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/bin/Debug/net7.0/BackendIdiomas.Application.dll
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/bin/Debug/net7.0/BackendIdiomas.Contracts.dll
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/bin/Debug/net7.0/BackendIdiomas.Domain.dll
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/bin/Debug/net7.0/BackendIdiomas.Contracts.pdb
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/bin/Debug/net7.0/BackendIdiomas.Application.pdb
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/bin/Debug/net7.0/BackendIdiomas.Domain.pdb

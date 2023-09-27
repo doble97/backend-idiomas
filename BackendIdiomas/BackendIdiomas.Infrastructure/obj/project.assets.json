@@ -1,11 +1,64 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "BackendIdiomas.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "BackendIdiomas.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BackendIdiomas.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BackendIdiomas.Application.dll": {}
+        }
+      },
+      "BackendIdiomas.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BackendIdiomas.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BackendIdiomas.Contracts.dll": {}
+        }
+      },
+      "BackendIdiomas.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BackendIdiomas.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BackendIdiomas.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BackendIdiomas.Application/1.0.0": {
+      "type": "project",
+      "path": "../BackendIdiomas.Application/BackendIdiomas.Application.csproj",
+      "msbuildProject": "../BackendIdiomas.Application/BackendIdiomas.Application.csproj"
+    },
+    "BackendIdiomas.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../BackendIdiomas.Contracts/BackendIdiomas.Contracts.csproj",
+      "msbuildProject": "../BackendIdiomas.Contracts/BackendIdiomas.Contracts.csproj"
+    },
+    "BackendIdiomas.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BackendIdiomas.Domain/BackendIdiomas.Domain.csproj",
+      "msbuildProject": "../BackendIdiomas.Domain/BackendIdiomas.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "BackendIdiomas.Application >= 1.0.0",
+      "BackendIdiomas.Contracts >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/jorge/.nuget/packages/": {}
@@ -31,7 +84,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Application/BackendIdiomas.Application.csproj": {
+              "projectPath": "/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Application/BackendIdiomas.Application.csproj"
+            },
+            "/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Contracts/BackendIdiomas.Contracts.csproj": {
+              "projectPath": "/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Contracts/BackendIdiomas.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

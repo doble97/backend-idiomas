@@ -11,4 +11,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BackendIdiomas.Contracts\BackendIdiomas.Contracts.csproj" />
+    <ProjectReference Include="..\BackendIdiomas.Application\BackendIdiomas.Application.csproj" />
+  </ItemGroup>
+
 </Project>

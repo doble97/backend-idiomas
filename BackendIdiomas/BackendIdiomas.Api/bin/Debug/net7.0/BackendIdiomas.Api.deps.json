@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v7.0": {
       "BackendIdiomas.Api/1.0.0": {
         "dependencies": {
+          "BackendIdiomas.Application": "1.0.0",
+          "BackendIdiomas.Contracts": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.11",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
@@ -72,6 +74,24 @@
             "fileVersion": "6.5.0.0"
           }
         }
+      },
+      "BackendIdiomas.Application/1.0.0": {
+        "dependencies": {
+          "BackendIdiomas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BackendIdiomas.Application.dll": {}
+        }
+      },
+      "BackendIdiomas.Contracts/1.0.0": {
+        "runtime": {
+          "BackendIdiomas.Contracts.dll": {}
+        }
+      },
+      "BackendIdiomas.Domain/1.0.0": {
+        "runtime": {
+          "BackendIdiomas.Domain.dll": {}
+        }
       }
     }
   },
@@ -129,6 +149,21 @@
       "sha512": "sha512-OvbvxX+wL8skxTBttcBsVxdh73Fag4xwqEU2edh4JMn7Ws/xJHnY/JB1e9RoCb6XpDxUF3hD9A0Z1lEUx40Pfw==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.5.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    },
+    "BackendIdiomas.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackendIdiomas.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackendIdiomas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

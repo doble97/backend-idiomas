@@ -7,14 +7,51 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "BackendIdiomas.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BackendIdiomas.Application": "1.0.0",
+          "BackendIdiomas.Contracts": "1.0.0"
+        },
         "runtime": {
           "BackendIdiomas.Infrastructure.dll": {}
+        }
+      },
+      "BackendIdiomas.Application/1.0.0": {
+        "dependencies": {
+          "BackendIdiomas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BackendIdiomas.Application.dll": {}
+        }
+      },
+      "BackendIdiomas.Contracts/1.0.0": {
+        "runtime": {
+          "BackendIdiomas.Contracts.dll": {}
+        }
+      },
+      "BackendIdiomas.Domain/1.0.0": {
+        "runtime": {
+          "BackendIdiomas.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "BackendIdiomas.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackendIdiomas.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackendIdiomas.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackendIdiomas.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
