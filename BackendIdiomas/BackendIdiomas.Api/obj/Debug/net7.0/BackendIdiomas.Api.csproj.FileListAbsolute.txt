@@ -37,3 +37,5 @@
 /home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/bin/Debug/net7.0/BackendIdiomas.Contracts.pdb
 /home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/bin/Debug/net7.0/BackendIdiomas.Application.pdb
 /home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/bin/Debug/net7.0/BackendIdiomas.Domain.pdb
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/bin/Debug/net7.0/BackendIdiomas.Infrastructure.dll
+/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/bin/Debug/net7.0/BackendIdiomas.Infrastructure.pdb

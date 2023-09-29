@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8HThTSD6HvIi1Ypb1VI2/uyHUn1jIrITGGWI9iularqRCr3TvTLyEVagl3xzjSunMqlfd/Iya+aBBi34U8KzkA==",
+  "dgSpecHash": "WxZMMIwkrv8Rls9p7QI+Dzia2eVpwK5vBvaGY7RzxLG903mIsIrcWSpyY2yrP0xfcE01iFd8D3LMIvVZCMfBtA==",
   "success": true,
   "projectFilePath": "/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Application/BackendIdiomas.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/jorge/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

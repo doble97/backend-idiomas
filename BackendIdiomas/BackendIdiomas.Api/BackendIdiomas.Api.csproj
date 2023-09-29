@@ -14,6 +14,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BackendIdiomas.Contracts\BackendIdiomas.Contracts.csproj" />
     <ProjectReference Include="..\BackendIdiomas.Application\BackendIdiomas.Application.csproj" />
+    <ProjectReference Include="..\BackendIdiomas.Infrastructure\BackendIdiomas.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

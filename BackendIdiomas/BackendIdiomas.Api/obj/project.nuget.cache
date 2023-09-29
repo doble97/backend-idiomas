@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zB05XGOJXeFlCD17lkTQzWZkfbqsPgWbbw+4NQj5yzo24SCHUf8fDz9M3l0xkKy4J5xxUuPcx+6qOXPvPJfubQ==",
+  "dgSpecHash": "U7altN1uqF5us8dtHvMmGPqZVFfNii8Oy0y0t/Q2moyvEcVQf0rU+ulOuSa/OhcCpO+EEA3+jUYAWMsKOzShhg==",
   "success": true,
   "projectFilePath": "/home/jorge/programacion/proyectos/app-idiomas/backend/BackendIdiomas/BackendIdiomas.Api/BackendIdiomas.Api.csproj",
   "expectedPackageFiles": [
     "/home/jorge/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "/home/jorge/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/jorge/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "/home/jorge/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/home/jorge/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/home/jorge/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
